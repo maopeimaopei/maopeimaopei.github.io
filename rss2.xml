@@ -15,7 +15,7 @@
     <atom:link href="https://woosdo.vip/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>高人一等的洞察力 ➡ 胜人一筹的执行力</description>
-    <pubDate>Thu, 20 Feb 2025 09:16:23 GMT</pubDate>
+    <pubDate>Thu, 20 Feb 2025 09:23:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -45,7 +45,7 @@
 &lt;/style&gt;
 
 &lt;div class=&quot;card&quot;&gt;
-  &lt;img src=&quot;商业脆弱1.png&quot; alt=&quot;示例图片&quot; style=&quot;width:70%&quot;&gt;
+  &lt;img src=&quot;/images/商业脆弱1.png&quot; alt=&quot;示例图片&quot; style=&quot;width:70%&quot;&gt;
   &lt;div class=&quot;container&quot;&gt;
     &lt;p&gt;在商业航天热潮背后，隐藏着诸多复杂问题，本文将为你揭示其繁荣背后的脆弱性。&lt;/p&gt;
   &lt;/div&gt;
