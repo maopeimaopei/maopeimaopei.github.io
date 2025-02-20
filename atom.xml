@@ -6,7 +6,7 @@
   <link href="https://woosdo.vip/atom.xml" rel="self"/>
   
   <link href="https://woosdo.vip/"/>
-  <updated>2025-02-20T02:25:59.402Z</updated>
+  <updated>2025-02-20T09:16:23.250Z</updated>
   <id>https://woosdo.vip/</id>
   
   <author>
@@ -21,10 +21,35 @@
     <link href="https://woosdo.vip/posts/2585213117/"/>
     <id>https://woosdo.vip/posts/2585213117/</id>
     <published>2025-02-20T02:00:00.000Z</published>
-    <updated>2025-02-20T02:25:59.402Z</updated>
+    <updated>2025-02-20T09:16:23.250Z</updated>
     
     
-    <summary type="html">&lt;p&gt;在商业航天的热潮中，可回收火箭的密集首飞、卫星互联网的万亿级市场预期、资本市场的狂热追捧，共同编织出一幅“星辰大海”的繁荣图景。然而，从做空者的视角看，这一领域的技术断层、市场泡沫与政策风险，可能远比表面更为复杂。本文将通过数据、案例与逻辑推演，揭示商业航天繁荣背后的脆弱性。&lt;/p&gt;</summary>
+    <summary type="html">&lt;style&gt;
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 14px;
+  text-align: center; /* 让文字描述居中 */
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;img src=&quot;商业脆弱1.png&quot; alt=&quot;示例图片&quot; style=&quot;width:70%&quot;&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;p&gt;在商业航天热潮背后，隐藏着诸多复杂问题，本文将为你揭示其繁荣背后的脆弱性。&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
     
     
     
@@ -49,7 +74,7 @@
     <updated>2025-02-19T07:54:34.074Z</updated>
     
     
-    <summary type="html">&lt;p&gt;在全球气候变化的严峻挑战下，&lt;strong&gt;碳中和已成为各国经济发展的核心战略&lt;/strong&gt;。从零碳技术的突破到绿色金融的创新，碳中和不仅是一场技术革命，更是一场价值跃迁的“炼金术”。本文将深度剖析碳中和背后的技术路径与投资逻辑，寻找绿色经济中的“戴维斯双击”。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;在全球气候变化的严峻挑战下，&lt;strong&gt;碳中和已成为各国经济发展的核心战略&lt;/strong&gt;。从零碳技术的突破到绿色金融的创新，碳中和不仅是一场技术革命，更是一场价值跃迁的“炼金术”。本文将深度剖析碳中和背后的技术路径与投资逻辑，寻找绿色经济中的“戴维斯双击”。&lt;br&gt;</summary>
     
     
     
@@ -97,7 +122,7 @@
     <updated>2025-02-19T16:39:00.145Z</updated>
     
     
-    <summary type="html">&lt;p&gt;在这个信息爆炸却洞察稀缺的时代，&lt;strong&gt;「悟思道评」&lt;/strong&gt; 始终相信：真正的竞争力不在于知道多少，而在于穿透迷雾的认知锐度与躬身入局的行动魄力。这里没有浮夸的预言，只有带着刻度的思考；这里拒绝空洞的鸡汤，只留下能撬动价值的杠杆。吴思道用智库级的思维框架，在咨询战场淬炼的实战智慧，为每个不甘于随波逐流的灵魂，搭建起认知进化的阶梯。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;在这个信息爆炸却洞察稀缺的时代，&lt;strong&gt;「悟思道评」&lt;/strong&gt; 始终相信：真正的竞争力不在于知道多少，而在于穿透迷雾的认知锐度与躬身入局的行动魄力。这里没有浮夸的预言，只有带着刻度的思考；这里拒绝空洞的鸡汤，只留下能撬动价值的杠杆。吴思道用智库级的思维框架，在咨询战场淬炼的实战智慧，为每个不甘于随波逐流的灵魂，搭建起认知进化的阶梯。&lt;br&gt;</summary>
     
     
     
