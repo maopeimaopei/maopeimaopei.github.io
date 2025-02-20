@@ -15,7 +15,7 @@
     <atom:link href="https://woosdo.vip/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>高人一等的洞察力 ➡ 胜人一筹的执行力</description>
-    <pubDate>Thu, 20 Feb 2025 09:23:59 GMT</pubDate>
+    <pubDate>Thu, 20 Feb 2025 09:29:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -29,7 +29,8 @@
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 8px;
-  margin-bottom: 10px;
+  margin-top: 8px;  
+  margin-bottom: 8px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -39,7 +40,7 @@
 }
 
 .container {
-  padding: 2px 14px;
+  padding: 2px 8px;
   text-align: center; /* 让文字描述居中 */
 }
 &lt;/style&gt;
