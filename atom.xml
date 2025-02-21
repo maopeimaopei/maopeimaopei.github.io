@@ -6,7 +6,7 @@
   <link href="https://woosdo.vip/atom.xml" rel="self"/>
   
   <link href="https://woosdo.vip/"/>
-  <updated>2025-02-21T06:21:16.764Z</updated>
+  <updated>2025-02-21T06:27:42.635Z</updated>
   <id>https://woosdo.vip/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://woosdo.vip/posts/2585213117/"/>
     <id>https://woosdo.vip/posts/2585213117/</id>
     <published>2025-02-20T02:00:00.000Z</published>
-    <updated>2025-02-21T06:21:16.764Z</updated>
+    <updated>2025-02-21T06:27:42.635Z</updated>
     
     
     <summary type="html">&lt;style&gt;
@@ -29,13 +29,12 @@
   display: flex;
   flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
   align-items: center;
-  margin-bottom: 10px;
+  /* margin-bottom: 5px; */
 }
 
 .post-summary-image {
-  width: 250px; /* 可根据需要调整图片宽度 */
   border-radius: 5px;
-  margin-bottom: 10px; /* 在图片下方添加间距 */
+  margin-bottom: 5px; /* 在图片下方添加间距 */
 }
 
 .post-summary-text {
@@ -43,7 +42,7 @@
 }
 &lt;/style&gt;
 &lt;div class=&quot;post-summary&quot;&gt;
-  &lt;img src=&quot;/images/商业脆弱的封面.png&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
+  &lt;img src=&quot;/images/商业脆弱的封面.png&quot; alt=&quot;示例图片&quot;style=&quot;width:70%&quot; class=&quot;post-summary-image&quot;&gt;
   &lt;div class=&quot;post-summary-text&quot;&gt;
     &lt;p&gt;商业航天热潮中，繁荣表象下暗藏技术、市场、政策风险，做空者视角揭示其脆弱性。&lt;/p&gt;
   &lt;/div&gt;
