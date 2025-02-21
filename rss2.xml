@@ -15,7 +15,7 @@
     <atom:link href="https://woosdo.vip/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>高人一等的洞察力 ➡ 胜人一筹的执行力</description>
-    <pubDate>Fri, 21 Feb 2025 06:10:51 GMT</pubDate>
+    <pubDate>Fri, 21 Feb 2025 06:21:16 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -24,8 +24,30 @@
       <guid>https://woosdo.vip/posts/2585213117/</guid>
       <pubDate>Thu, 20 Feb 2025 02:00:00 GMT</pubDate>
       
-      <description>&lt;p&gt;&lt;img src=&quot;%E5%95%86%E4%B8%9A%E8%84%86%E5%BC%B1%E7%9A%84%E5%B0%81%E9%9D%A2.png&quot; alt=&quot;图片&quot;&gt;&lt;/p&gt;
-&lt;center&gt;商业航天热潮中，繁荣表象下暗藏技术、市场、政策风险，做空者视角揭示其脆弱性。&lt;/center&gt;</description>
+      <description>&lt;style&gt;
+.post-summary {
+  display: flex;
+  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.post-summary-image {
+  width: 250px; /* 可根据需要调整图片宽度 */
+  border-radius: 5px;
+  margin-bottom: 10px; /* 在图片下方添加间距 */
+}
+
+.post-summary-text {
+  text-align: center; /* 文字居中显示 */
+}
+&lt;/style&gt;
+&lt;div class=&quot;post-summary&quot;&gt;
+  &lt;img src=&quot;/images/商业脆弱的封面.png&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
+  &lt;div class=&quot;post-summary-text&quot;&gt;
+    &lt;p&gt;商业航天热潮中，繁荣表象下暗藏技术、市场、政策风险，做空者视角揭示其脆弱性。&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
       
       
       
