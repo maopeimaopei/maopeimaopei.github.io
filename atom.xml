@@ -6,7 +6,7 @@
   <link href="https://woosdo.vip/atom.xml" rel="self"/>
   
   <link href="https://woosdo.vip/"/>
-  <updated>2025-02-21T09:26:49.389Z</updated>
+  <updated>2025-02-21T09:36:54.349Z</updated>
   <id>https://woosdo.vip/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://woosdo.vip/posts/2585213117/"/>
     <id>https://woosdo.vip/posts/2585213117/</id>
     <published>2025-02-20T02:00:00.000Z</published>
-    <updated>2025-02-21T09:26:49.389Z</updated>
+    <updated>2025-02-21T09:36:54.349Z</updated>
     
     
     <summary type="html">&lt;style&gt;
@@ -34,9 +34,7 @@
 .post-summary-image {
   border-radius: 5px;
   margin-bottom: 5px; /* 在图片下方添加间距 */
-  height: 50%; 
-  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
-  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+  box-shadow: none;
 }
 
 .post-summary-text {
@@ -70,7 +68,7 @@
     <link href="https://woosdo.vip/posts/2585213116/"/>
     <id>https://woosdo.vip/posts/2585213116/</id>
     <published>2025-02-19T07:30:00.000Z</published>
-    <updated>2025-02-21T09:26:54.164Z</updated>
+    <updated>2025-02-21T09:36:56.306Z</updated>
     
     
     <summary type="html">&lt;style&gt;
@@ -83,9 +81,7 @@
 .post-summary-image {
   border-radius: 5px;
   margin-bottom: 5px; /* 在图片下方添加间距 */
-  height: 50%; 
-  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
-  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+  box-shadow: none;
 }
 
 .post-summary-text {
@@ -119,7 +115,7 @@
     <link href="https://woosdo.vip/posts/2585213115/"/>
     <id>https://woosdo.vip/posts/2585213115/</id>
     <published>2025-02-18T02:46:47.000Z</published>
-    <updated>2025-02-21T09:26:42.599Z</updated>
+    <updated>2025-02-21T09:36:52.959Z</updated>
     
     
     <summary type="html">&lt;style&gt;
@@ -132,9 +128,7 @@
 .post-summary-image {
   border-radius: 5px;
   margin-bottom: 5px; /* 在图片下方添加间距 */
-  height: 50%; 
-  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
-  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+  box-shadow: none;
 }
 
 .post-summary-text {
@@ -166,7 +160,7 @@
     <link href="https://woosdo.vip/posts/2585213114/"/>
     <id>https://woosdo.vip/posts/2585213114/</id>
     <published>2025-01-26T07:45:10.000Z</published>
-    <updated>2025-02-21T09:26:36.244Z</updated>
+    <updated>2025-02-21T09:36:50.858Z</updated>
     
     
     <summary type="html">&lt;style&gt;
@@ -179,9 +173,7 @@
 .post-summary-image {
   border-radius: 5px;
   margin-bottom: 5px; /* 在图片下方添加间距 */
-  height: 50%; 
-  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
-  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+  box-shadow: none;
 }
 
 .post-summary-text {

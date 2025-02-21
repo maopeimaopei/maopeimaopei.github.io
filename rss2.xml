@@ -15,7 +15,7 @@
     <atom:link href="https://woosdo.vip/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>高人一等的洞察力 ➡ 胜人一筹的执行力</description>
-    <pubDate>Fri, 21 Feb 2025 09:26:49 GMT</pubDate>
+    <pubDate>Fri, 21 Feb 2025 09:36:54 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -34,9 +34,7 @@
 .post-summary-image {
   border-radius: 5px;
   margin-bottom: 5px; /* 在图片下方添加间距 */
-  height: 50%; 
-  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
-  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+  box-shadow: none;
 }
 
 .post-summary-text {
@@ -85,9 +83,7 @@
 .post-summary-image {
   border-radius: 5px;
   margin-bottom: 5px; /* 在图片下方添加间距 */
-  height: 50%; 
-  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
-  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+  box-shadow: none;
 }
 
 .post-summary-text {
@@ -136,9 +132,7 @@
 .post-summary-image {
   border-radius: 5px;
   margin-bottom: 5px; /* 在图片下方添加间距 */
-  height: 50%; 
-  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
-  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+  box-shadow: none;
 }
 
 .post-summary-text {
@@ -185,9 +179,7 @@
 .post-summary-image {
   border-radius: 5px;
   margin-bottom: 5px; /* 在图片下方添加间距 */
-  height: 50%; 
-  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
-  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+  box-shadow: none;
 }
 
 .post-summary-text {
