@@ -6,7 +6,7 @@
   <link href="https://woosdo.vip/atom.xml" rel="self"/>
   
   <link href="https://woosdo.vip/"/>
-  <updated>2025-02-21T06:27:42.635Z</updated>
+  <updated>2025-02-21T07:20:44.207Z</updated>
   <id>https://woosdo.vip/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://woosdo.vip/posts/2585213117/"/>
     <id>https://woosdo.vip/posts/2585213117/</id>
     <published>2025-02-20T02:00:00.000Z</published>
-    <updated>2025-02-21T06:27:42.635Z</updated>
+    <updated>2025-02-21T07:20:44.207Z</updated>
     
     
     <summary type="html">&lt;style&gt;
@@ -29,20 +29,23 @@
   display: flex;
   flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
   align-items: center;
-  /* margin-bottom: 5px; */
 }
 
 .post-summary-image {
   border-radius: 5px;
   margin-bottom: 5px; /* 在图片下方添加间距 */
+  height: 50%; 
+  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
+  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
 }
 
 .post-summary-text {
   text-align: center; /* 文字居中显示 */
 }
 &lt;/style&gt;
+
 &lt;div class=&quot;post-summary&quot;&gt;
-  &lt;img src=&quot;/images/商业脆弱的封面.png&quot; alt=&quot;示例图片&quot;style=&quot;width:70%&quot; class=&quot;post-summary-image&quot;&gt;
+  &lt;img src=&quot;/images/2585213117.png&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
   &lt;div class=&quot;post-summary-text&quot;&gt;
     &lt;p&gt;商业航天热潮中，繁荣表象下暗藏技术、市场、政策风险，做空者视角揭示其脆弱性。&lt;/p&gt;
   &lt;/div&gt;
@@ -68,10 +71,35 @@
     <link href="https://woosdo.vip/posts/2585213116/"/>
     <id>https://woosdo.vip/posts/2585213116/</id>
     <published>2025-02-19T07:30:00.000Z</published>
-    <updated>2025-02-19T07:54:34.074Z</updated>
+    <updated>2025-02-21T07:36:49.615Z</updated>
     
     
-    <summary type="html">&lt;p&gt;在全球气候变化的严峻挑战下，&lt;strong&gt;碳中和已成为各国经济发展的核心战略&lt;/strong&gt;。从零碳技术的突破到绿色金融的创新，碳中和不仅是一场技术革命，更是一场价值跃迁的“炼金术”。本文将深度剖析碳中和背后的技术路径与投资逻辑，寻找绿色经济中的“戴维斯双击”。&lt;/p&gt;</summary>
+    <summary type="html">&lt;style&gt;
+.post-summary {
+  display: flex;
+  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
+  align-items: center;
+}
+
+.post-summary-image {
+  border-radius: 5px;
+  margin-bottom: 5px; /* 在图片下方添加间距 */
+  height: 50%; 
+  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
+  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+}
+
+.post-summary-text {
+  text-align: center; /* 文字居中显示 */
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;post-summary&quot;&gt;
+  &lt;img src=&quot;/images/2585213116.png&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
+  &lt;div class=&quot;post-summary-text&quot;&gt;
+    &lt;p&gt;全球气候变化下，碳中和已经成为大国经济的核心战略。&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
     
     
     
@@ -93,10 +121,35 @@
     <link href="https://woosdo.vip/posts/2585213115/"/>
     <id>https://woosdo.vip/posts/2585213115/</id>
     <published>2025-02-18T02:46:47.000Z</published>
-    <updated>2025-02-18T11:29:39.753Z</updated>
+    <updated>2025-02-21T07:36:53.439Z</updated>
     
     
-    <summary type="html">&lt;p&gt;在低空经济的浪潮中，&lt;strong&gt;无人机物流、空中出租车、城市空中交通（UAM）&lt;/strong&gt; 等概念层出不穷，仿佛一片繁荣景象。然而，喧嚣背后，许多所谓的“创新”不过是披着科技外衣的伪需求。如何用“奥卡姆剃刀”剔除这些冗余，找到真正的市场痛点？本文将从批判性思维出发，结合数据与案例，揭示低空经济的本质与未来。&lt;/p&gt;</summary>
+    <summary type="html">&lt;style&gt;
+.post-summary {
+  display: flex;
+  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
+  align-items: center;
+}
+
+.post-summary-image {
+  border-radius: 5px;
+  margin-bottom: 5px; /* 在图片下方添加间距 */
+  height: 50%; 
+  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
+  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+}
+
+.post-summary-text {
+  text-align: center; /* 文字居中显示 */
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;post-summary&quot;&gt;
+  &lt;img src=&quot;/images/2585213115.png&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
+  &lt;div class=&quot;post-summary-text&quot;&gt;
+    &lt;p&gt;低空经济浪潮里，无人机应用概念频出，看似繁荣，实则多为伪需求，如何找准真痛点？&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
     
     
     
@@ -116,10 +169,35 @@
     <link href="https://woosdo.vip/posts/2585213114/"/>
     <id>https://woosdo.vip/posts/2585213114/</id>
     <published>2025-01-26T07:45:10.000Z</published>
-    <updated>2025-02-19T16:39:00.145Z</updated>
+    <updated>2025-02-21T07:20:35.040Z</updated>
     
     
-    <summary type="html">&lt;p&gt;在这个信息爆炸却洞察稀缺的时代，&lt;strong&gt;「悟思道评」&lt;/strong&gt; 始终相信：真正的竞争力不在于知道多少，而在于穿透迷雾的认知锐度与躬身入局的行动魄力。这里没有浮夸的预言，只有带着刻度的思考；这里拒绝空洞的鸡汤，只留下能撬动价值的杠杆。吴思道用智库级的思维框架，在咨询战场淬炼的实战智慧，为每个不甘于随波逐流的灵魂，搭建起认知进化的阶梯。&lt;/p&gt;</summary>
+    <summary type="html">&lt;style&gt;
+.post-summary {
+  display: flex;
+  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
+  align-items: center;
+}
+
+.post-summary-image {
+  border-radius: 5px;
+  margin-bottom: 5px; /* 在图片下方添加间距 */
+  height: 50%; 
+  object-fit: cover; /* 保持图片原始尺寸，不进行缩放拉伸 */
+  object-position: 50% 0%; /* 水平居中，垂直方向从顶部开始显示，即显示上半部分 */
+}
+
+.post-summary-text {
+  text-align: center; /* 文字居中显示 */
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;post-summary&quot;&gt;
+  &lt;img src=&quot;/images/2585213114.png&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
+  &lt;div class=&quot;post-summary-text&quot;&gt;
+    &lt;p&gt;「悟思道评」秉持深度思考与实战智慧，以智库思维为不甘平庸者搭建认知进化阶梯。&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
     
     
     
