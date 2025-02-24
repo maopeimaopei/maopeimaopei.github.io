@@ -6,7 +6,7 @@
   <link href="https://woosdo.vip/atom.xml" rel="self"/>
   
   <link href="https://woosdo.vip/"/>
-  <updated>2025-02-24T01:47:31.906Z</updated>
+  <updated>2025-02-24T08:46:37.692Z</updated>
   <id>https://woosdo.vip/</id>
   
   <author>
@@ -21,32 +21,10 @@
     <link href="https://woosdo.vip/posts/2585213118/"/>
     <id>https://woosdo.vip/posts/2585213118/</id>
     <published>2025-02-24T01:30:00.000Z</published>
-    <updated>2025-02-24T01:47:31.906Z</updated>
+    <updated>2025-02-24T08:46:37.692Z</updated>
     
     
-    <summary type="html">&lt;style&gt;
-.post-summary {
-  display: flex;
-  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
-  align-items: center;
-}
-
-.post-summary-image {
-  border-radius: 5px;
-  margin-bottom: 5px; /* 在图片下方添加间距 */
-  box-shadow: none;
-}
-
-.post-summary-text {
-  text-align: center; /* 文字居中显示 */
-}
-&lt;/style&gt;
-&lt;div class=&quot;post-summary&quot;&gt;
-  &lt;img src=&quot;/images/2585213118.webp&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
-  &lt;div class=&quot;post-summary-text&quot;&gt;
-    &lt;p&gt;深圳通过蒙特卡洛沙盒重构空域治理，动态网格算法实现日均万架次无人机高效运行，引领全球低空经济制度革命。&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</summary>
+    <summary type="html">深圳通过蒙特卡洛沙盒重构空域治理，动态网格算法实现日均万架次无人机高效运行，引领全球低空经济制度革命。</summary>
     
     
     
@@ -70,32 +48,10 @@
     <link href="https://woosdo.vip/posts/2585213117/"/>
     <id>https://woosdo.vip/posts/2585213117/</id>
     <published>2025-02-20T02:00:00.000Z</published>
-    <updated>2025-02-21T09:36:54.349Z</updated>
+    <updated>2025-02-24T08:46:26.428Z</updated>
     
     
-    <summary type="html">&lt;style&gt;
-.post-summary {
-  display: flex;
-  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
-  align-items: center;
-}
-
-.post-summary-image {
-  border-radius: 5px;
-  margin-bottom: 5px; /* 在图片下方添加间距 */
-  box-shadow: none;
-}
-
-.post-summary-text {
-  text-align: center; /* 文字居中显示 */
-}
-&lt;/style&gt;
-&lt;div class=&quot;post-summary&quot;&gt;
-  &lt;img src=&quot;/images/2585213117.webp&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
-  &lt;div class=&quot;post-summary-text&quot;&gt;
-    &lt;p&gt;商业航天热潮中，繁荣表象下暗藏技术、市场、政策风险，做空者视角揭示其脆弱性。&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</summary>
+    <summary type="html">商业航天热潮中，繁荣表象下暗藏技术、市场、政策风险，做空者视角揭示其脆弱性。</summary>
     
     
     
@@ -117,32 +73,10 @@
     <link href="https://woosdo.vip/posts/2585213116/"/>
     <id>https://woosdo.vip/posts/2585213116/</id>
     <published>2025-02-19T07:30:00.000Z</published>
-    <updated>2025-02-21T09:36:56.306Z</updated>
+    <updated>2025-02-24T08:46:31.878Z</updated>
     
     
-    <summary type="html">&lt;style&gt;
-.post-summary {
-  display: flex;
-  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
-  align-items: center;
-}
-
-.post-summary-image {
-  border-radius: 5px;
-  margin-bottom: 5px; /* 在图片下方添加间距 */
-  box-shadow: none;
-}
-
-.post-summary-text {
-  text-align: center; /* 文字居中显示 */
-}
-&lt;/style&gt;
-&lt;div class=&quot;post-summary&quot;&gt;
-  &lt;img src=&quot;/images/2585213116.webp&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
-  &lt;div class=&quot;post-summary-text&quot;&gt;
-    &lt;p&gt;全球气候变化下，碳中和已经成为大国经济的核心战略。&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</summary>
+    <summary type="html">全球气候变化下，碳中和已经成为大国经济的核心战略。</summary>
     
     
     
@@ -164,32 +98,10 @@
     <link href="https://woosdo.vip/posts/2585213115/"/>
     <id>https://woosdo.vip/posts/2585213115/</id>
     <published>2025-02-18T02:46:47.000Z</published>
-    <updated>2025-02-21T09:36:52.959Z</updated>
+    <updated>2025-02-24T08:46:20.708Z</updated>
     
     
-    <summary type="html">&lt;style&gt;
-.post-summary {
-  display: flex;
-  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
-  align-items: center;
-}
-
-.post-summary-image {
-  border-radius: 5px;
-  margin-bottom: 5px; /* 在图片下方添加间距 */
-  box-shadow: none;
-}
-
-.post-summary-text {
-  text-align: center; /* 文字居中显示 */
-}
-&lt;/style&gt;
-&lt;div class=&quot;post-summary&quot;&gt;
-  &lt;img src=&quot;/images/2585213115.webp&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
-  &lt;div class=&quot;post-summary-text&quot;&gt;
-    &lt;p&gt;低空经济浪潮里，无人机应用概念频出，看似繁荣，实则多为伪需求，如何找准真痛点？&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</summary>
+    <summary type="html">低空经济浪潮里，无人机应用概念频出，看似繁荣，实则多为伪需求，如何找准真痛点？</summary>
     
     
     
@@ -209,32 +121,10 @@
     <link href="https://woosdo.vip/posts/2585213114/"/>
     <id>https://woosdo.vip/posts/2585213114/</id>
     <published>2025-01-26T07:45:10.000Z</published>
-    <updated>2025-02-21T09:36:50.858Z</updated>
+    <updated>2025-02-24T08:46:08.728Z</updated>
     
     
-    <summary type="html">&lt;style&gt;
-.post-summary {
-  display: flex;
-  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
-  align-items: center;
-}
-
-.post-summary-image {
-  border-radius: 5px;
-  margin-bottom: 5px; /* 在图片下方添加间距 */
-  box-shadow: none;
-}
-
-.post-summary-text {
-  text-align: center; /* 文字居中显示 */
-}
-&lt;/style&gt;
-&lt;div class=&quot;post-summary&quot;&gt;
-  &lt;img src=&quot;/images/2585213114.webp&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
-  &lt;div class=&quot;post-summary-text&quot;&gt;
-    &lt;p&gt;「悟思道评」秉持深度思考与实战智慧，以智库思维为不甘平庸者搭建认知进化阶梯。&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</summary>
+    <summary type="html">「悟思道评」秉持深度思考与实战智慧，以智库思维为不甘平庸者搭建认知进化阶梯。</summary>
     
     
     
