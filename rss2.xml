@@ -15,8 +15,59 @@
     <atom:link href="https://woosdo.vip/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>高人一等的洞察力 ➡ 胜人一筹的执行力</description>
-    <pubDate>Fri, 21 Feb 2025 09:36:54 GMT</pubDate>
+    <pubDate>Mon, 24 Feb 2025 01:47:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>空域网格的暴力美学：深圳无人机物流爆发点背后的蒙特卡洛监管沙盒实验</title>
+      <link>https://woosdo.vip/posts/2585213118/</link>
+      <guid>https://woosdo.vip/posts/2585213118/</guid>
+      <pubDate>Mon, 24 Feb 2025 01:30:00 GMT</pubDate>
+      
+      <description>&lt;style&gt;
+.post-summary {
+  display: flex;
+  flex-direction: column; /* 使子元素垂直排列，图片在上，文字在下 */
+  align-items: center;
+}
+
+.post-summary-image {
+  border-radius: 5px;
+  margin-bottom: 5px; /* 在图片下方添加间距 */
+  box-shadow: none;
+}
+
+.post-summary-text {
+  text-align: center; /* 文字居中显示 */
+}
+&lt;/style&gt;
+&lt;div class=&quot;post-summary&quot;&gt;
+  &lt;img src=&quot;/images/2585213118.webp&quot; alt=&quot;示例图片&quot; class=&quot;post-summary-image&quot;&gt;
+  &lt;div class=&quot;post-summary-text&quot;&gt;
+    &lt;p&gt;深圳通过蒙特卡洛沙盒重构空域治理，动态网格算法实现日均万架次无人机高效运行，引领全球低空经济制度革命。&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+      
+      
+      
+      
+      <category domain="https://woosdo.vip/categories/%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E/">低空经济</category>
+      
+      
+      <category domain="https://woosdo.vip/tags/%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E/">低空经济</category>
+      
+      <category domain="https://woosdo.vip/tags/%E7%9B%91%E7%AE%A1%E6%B2%99%E7%9B%92/">监管沙盒</category>
+      
+      <category domain="https://woosdo.vip/tags/%E7%AE%97%E6%B3%95%E6%A8%A1%E5%9E%8B/">算法模型</category>
+      
+      <category domain="https://woosdo.vip/tags/%E5%9F%8E%E5%B8%82%E5%88%9B%E6%96%B0/">城市创新</category>
+      
+      <category domain="https://woosdo.vip/tags/%E5%88%B6%E5%BA%A6%E5%8D%9A%E5%BC%88/">制度博弈</category>
+      
+      
+      <comments>https://woosdo.vip/posts/2585213118/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>商业航天的“脆弱性探测”：如何识别繁荣背后的技术断层与政策风险？</title>
