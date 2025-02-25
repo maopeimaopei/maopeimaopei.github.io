@@ -6,7 +6,7 @@
   <link href="https://woosdo.vip/atom.xml" rel="self"/>
   
   <link href="https://woosdo.vip/"/>
-  <updated>2025-02-25T03:42:56.096Z</updated>
+  <updated>2025-02-25T05:18:07.274Z</updated>
   <id>https://woosdo.vip/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自动驾驶的道德：杀死一个程序员还是五个乘客？——11维时空中的电车难题与混沌算法</title>
+    <link href="https://woosdo.vip/posts/2585213120/"/>
+    <id>https://woosdo.vip/posts/2585213120/</id>
+    <published>2025-02-25T12:00:00.000Z</published>
+    <updated>2025-02-25T05:18:07.274Z</updated>
+    
+    
+    <summary type="html">当特斯拉遭遇11维时空的电车难题，伦理决策竟需引入薛定谔的猫？MIT用混沌理论重构生死算法。</summary>
+    
+    
+    
+    <category term="人工智能" scheme="https://woosdo.vip/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    
+    <category term="自动驾驶" scheme="https://woosdo.vip/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/"/>
+    
+    <category term="人工智能伦理" scheme="https://woosdo.vip/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%A6%E7%90%86/"/>
+    
+    <category term="电车难题" scheme="https://woosdo.vip/tags/%E7%94%B5%E8%BD%A6%E9%9A%BE%E9%A2%98/"/>
+    
+    <category term="混沌理论" scheme="https://woosdo.vip/tags/%E6%B7%B7%E6%B2%8C%E7%90%86%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>DeepSeek的道德能级跃迁：一场硅基文明对碳基伦理的格式化运动</title>
